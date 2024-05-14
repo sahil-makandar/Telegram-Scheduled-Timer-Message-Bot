@@ -8,7 +8,7 @@ This is a Telegram bot that sends messages at regular set time intervals. The bo
 1. **Clone Repository**: 
    - Clone this repository to your local machine:
      ```bash
-     git clone https://github.com/your_username/telegram-scheduled-message-bot.git
+     git clone https://github.com/mahaboobsabGoa/Telegram-Scheduled-Timer-Message-Bot.git
      ```
 
 2. **Navigate to Repository**: 
